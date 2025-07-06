@@ -1,0 +1,10 @@
+#NJU-Pa #project
+## 安装环境
+- [[Vim]]
+- [[GNU/Linux]]
+- [[tmux]]
+- [[gdb]]
+- [[makefile]]
+- [[git]]
+## 获取代码
+- [[Github]] 

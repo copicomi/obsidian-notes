@@ -1,0 +1,1 @@
+差错检测和纠正比特，Error-Detection and-Correction，EDC
